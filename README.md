@@ -7,7 +7,7 @@
 [![GitHub AlexPaper](https://img.shields.io/github/followers/alexpaper?label=follow&style=social)](https://github.com/alexpaper)
 
 
-## <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="60"> A little more about me...  
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FkdnpobHUxdjRrcTRkNTk2NmFvM2l5bWJkeGdlOWE1bjB2cDB1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kes7cKRZ8ZOkslv6aK/giphy.gif" width="60"> A little more about me...  
 
 ```javascript
 const alex = {
@@ -20,7 +20,7 @@ const alex = {
  challenge: "I am doing my best to improve my skills everyday, and make the world a better place!"
 }
 ```
-<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHB2d2g2dW9pMGN2MzVzdXBsZ2l1bXJkbDdudjlrMW9udjRxYmh3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/0YqqS9Nize8tKxfSWV/giphy.gif" width="80%">
+<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHB2d2g2dW9pMGN2MzVzdXBsZ2l1bXJkbDdudjlrMW9udjRxYmh3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/0YqqS9Nize8tKxfSWV/giphy.gif" width="50%">
 
 <img src="https://media.giphy.com/media/Yqiw4XZ1LhMRRCL2ZO/giphy.gif" width="60"> <em><b>I love connecting with all over the world!</b></em>
 💜 Stay Strong.
