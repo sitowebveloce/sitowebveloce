@@ -7,7 +7,7 @@
 [![GitHub AlexPaper](https://img.shields.io/github/followers/alexpaper?label=follow&style=social)](https://github.com/alexpaper)
 
 
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FkdnpobHUxdjRrcTRkNTk2NmFvM2l5bWJkeGdlOWE1bjB2cDB1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kes7cKRZ8ZOkslv6aK/giphy.gif" width="60"> A little more about me...  
+## <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="70"> A little more about me...  
 
 ```javascript
 const alex = {
