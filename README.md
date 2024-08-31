@@ -1,5 +1,5 @@
 <h2><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Hi, I'm Alex Paper!</h2>
-<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FkdnpobHUxdjRrcTRkNTk2NmFvM2l5bWJkeGdlOWE1bjB2cDB1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kes7cKRZ8ZOkslv6aK/giphy.gif" width="10%">
+<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FkdnpobHUxdjRrcTRkNTk2NmFvM2l5bWJkeGdlOWE1bjB2cDB1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kes7cKRZ8ZOkslv6aK/giphy.gif" width="12%">
 <p><em>Web Dev enthusiastic!</em></p>
 
 [![Twitter: AlexPaper](https://img.shields.io/twitter/follow/sitowebveloce?style=social)](https://twitter.com/sitowebveloce)
